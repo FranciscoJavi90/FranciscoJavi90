@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Francisco Cifuentes @FranciscoJavi90
-- 👀 I’m interested in Coding, Video Games, Books!
-- 🌱 I’m currently learning a lot of stuff
+# 👋 Hi, I’m Francisco Cifuentes (@FranciscoJavi90)
 
-<!---
-Klerith/Klerith is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **Coding**, **Video Games**, and **Books**!
+- 🌱 Currently learning and improving my skills in various technologies.
+- 💼 I have experience with:  
+  - **Frontend:** React, Vue, Astro, React Native, JavaScript
+  - **Backend:** Node, Laravel, Python, C#, VB
+  - **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
+  - **Tools & Platforms:** Postman, Git, GitHub
+  - **Other:** Testing, API development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoJavi90&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
