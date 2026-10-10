@@ -16,4 +16,4 @@ jobs:
             "https://ghchart.rshah.org/7AA2F7/FranciscoJavi90" \
             "https://github-readme-stats-sigma-five.vercel.app/api?username=FranciscoJavi90" \
             ; do
-            echo "=== $u"; curl -s -m 25 -o out -w 'HTTP %{http_code} %{content_type} %{size_download}B\n' "$u"; head -c 400 out | tr '\n' ' '; echo; done
+            echo "=== $u"; curl -s -m 25 -o out -w 'HTTP %{http_code} %{content_type} %{size_download}B\n' "$u" || true; touch out; head -c 400 out | tr '\n' ' '; echo; done
