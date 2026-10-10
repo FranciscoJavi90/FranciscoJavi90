@@ -1,16 +1,15 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:00F7FF&height=220&section=header&text=Francisco%20Cifuentes&fontSize=52&fontColor=0D1117&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Gamer%20%7C%20Bookworm&descSize=18&descAlignY=58&animation=fadeIn" alt="Francisco Cifuentes" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:00F7FF&height=220&section=header&text=Francisco%20Cifuentes&fontSize=52&fontColor=0D1117&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Francisco Cifuentes" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/FranciscoJavi90">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Francisco+Cifuentes;Apasionado+por+el+Coding;Gamer+de+coraz%C3%B3n;Lector+de+libros;Aprendiendo+y+mejorando+cada+d%C3%ADa" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Francisco+Cifuentes+%7C+Full+Stack+Developer;Desarrollo+Frontend+y+Backend;APIs+y+Testing;Aprendizaje+continuo" alt="Texto animado" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FranciscoJavi90&label=Visitas&color=7AA2F7&style=for-the-badge" alt="Visitas" />
   <a href="https://github.com/FranciscoJavi90?tab=followers">
     <img src="https://img.shields.io/github/followers/FranciscoJavi90?label=Seguidores&style=for-the-badge&logo=github&color=BB9AF7&labelColor=1A1B27" alt="Seguidores" />
   </a>
@@ -27,12 +26,12 @@
 const francisco = {
   nombre: "Francisco Cifuentes",
   usuario: "@FranciscoJavi90",
-  pasiones: ["Coding", "Video Games", "Books"],
-  aprendiendo: "Mejorando mis habilidades en varias tecnologías",
+  intereses: ["Desarrollo de software", "Lectura"],
+  aprendizaje: "Formación continua en diversas tecnologías",
   enfoque: ["Frontend", "Backend", "APIs", "Testing"],
 
   saludar() {
-    console.log("¡Hola! Gracias por visitar mi perfil 👋");
+    console.log("Gracias por visitar mi perfil.");
   },
 };
 
@@ -126,24 +125,22 @@ francisco.saludar();
 
 ---
 
-## 🎮 Lo que me mueve
+## 🎯 Intereses
 
 <table align="center">
   <tr>
-    <th align="center">💻 Coding</th>
-    <th align="center">🎮 Video Games</th>
-    <th align="center">📚 Libros</th>
+    <th align="center">💻 Desarrollo</th>
+    <th align="center">📚 Lectura</th>
   </tr>
   <tr>
-    <td align="center">Convertir ideas en código que funciona.</td>
-    <td align="center">Cada partida es un nuevo reto.</td>
-    <td align="center">Una página más, una idea nueva.</td>
+    <td align="center">Desarrollo de soluciones de software eficientes y mantenibles.</td>
+    <td align="center">La lectura como fuente constante de conocimiento.</td>
   </tr>
 </table>
 
 ---
 
-## 💬 Frase del momento
+## 💬 Frase destacada
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase aleatoria" />
@@ -151,7 +148,7 @@ francisco.saludar();
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Contacto
 
 <p align="center">
   <a href="https://github.com/FranciscoJavi90">
