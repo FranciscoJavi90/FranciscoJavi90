@@ -117,10 +117,10 @@ francisco.saludar();
 
 ---
 
-## 🏆 Trofeos
+## 📈 Resumen del perfil
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FranciscoJavi90&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranciscoJavi90&theme=tokyonight" alt="Resumen del perfil de GitHub" width="100%" />
 </p>
 
 ---
