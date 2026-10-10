@@ -6,12 +6,14 @@ jobs:
     steps:
       - run: |
           for u in \
-            "https://github-profile-trophy.vercel.app/?username=FranciscoJavi90&theme=tokyonight&no-frame=true&no-bg=true" \
-            "https://github-readme-stats.vercel.app/api?username=FranciscoJavi90&theme=tokyonight" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoJavi90&layout=compact" \
-            "https://streak-stats.demolab.com?user=FranciscoJavi90&theme=tokyonight" \
-            "https://github-readme-activity-graph.vercel.app/graph?username=FranciscoJavi90&theme=tokyo-night" \
-            "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" \
-            "https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" \
-            "https://readme-typing-svg.demolab.com?lines=Hola" ; do
+            "https://trophy.ryotarofr.com/?username=FranciscoJavi90&theme=tokyonight&no-frame=true&no-bg=true" \
+            "https://github-trophies.vercel.app/?username=FranciscoJavi90&theme=tokyonight&no-frame=true&no-bg=true" \
+            "https://github-profile-trophy-tawny.vercel.app/?username=FranciscoJavi90&theme=tokyonight" \
+            "https://github-profile-trophy-screw-hand.vercel.app/?username=FranciscoJavi90&theme=tokyonight" \
+            "https://github-profile-trophy-kannan.vercel.app/?username=FranciscoJavi90&theme=tokyonight" \
+            "https://github-readme-activity-graph.cyclic.app/graph?username=FranciscoJavi90" \
+            "https://github-readme-activity-graph.onrender.com/graph?username=FranciscoJavi90" \
+            "https://ghchart.rshah.org/7AA2F7/FranciscoJavi90" \
+            "https://github-readme-stats-sigma-five.vercel.app/api?username=FranciscoJavi90" \
+            ; do
             echo "=== $u"; curl -s -m 25 -o out -w 'HTTP %{http_code} %{content_type} %{size_download}B\n' "$u"; head -c 400 out | tr '\n' ' '; echo; done
