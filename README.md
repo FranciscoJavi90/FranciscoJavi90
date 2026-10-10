@@ -100,7 +100,7 @@ francisco.saludar();
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoJavi90&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de actividad" width="100%" />
+  <img src="https://ghchart.rshah.org/7AA2F7/FranciscoJavi90" alt="Gráfico de contribuciones" width="100%" />
 </p>
 
 ---
